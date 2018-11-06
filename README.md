@@ -43,10 +43,10 @@ Material de apoio para o minicurso de Introdução ao Matlab/Octave da SEMIN 201
    1. Aba de plotagem
    1. Gráficos 3D
 1. Práticas para Revisão ([referências úteis](http://www.mathworks.com/help/matlab/ref/linespec.html))
-   1. Projeto: Uso de Energia Elétrica
-   ![Imagem do Uso de Energia Elétrica](./plotToCreate-ElectricityUsage.png)
+   1. Projeto: Uso de Energia Elétrica      
+      ![Imagem do Uso de Energia Elétrica](./plotToCreate-ElectricityUsage.png)      
    1. Projeto: Frequência de Áudio
-   ![Imagem da Frequência de Áudio](./plotToCreate-AudioFrequency.png)
+      ![Imagem da Frequência de Áudio](./plotToCreate-AudioFrequency.png)
 1. MATLAB Scripts
    1. O editor do MATLAB/Octave
    1. Pŕaticas com scripts
