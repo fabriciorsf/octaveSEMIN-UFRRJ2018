@@ -44,7 +44,7 @@ Material de apoio para o minicurso de Introdução ao Matlab/Octave da SEMIN 201
    1. Gráficos 3D
 1. Práticas para Revisão ([referências úteis](http://www.mathworks.com/help/matlab/ref/linespec.html))
    1. Projeto: Uso de Energia Elétrica
-   1 Projeto: Frequência de Áudio
+   1. Projeto: Frequência de Áudio
 1. MATLAB Scripts
    1. O editor do MATLAB/Octave
    1. Pŕaticas com scripts
